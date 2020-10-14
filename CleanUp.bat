@@ -144,6 +144,6 @@ goto menu
 :exit
 
 
-echo Thanks for using PC Cleanup Utility by Ryan
+echo Thanks for using PC Cleanup Utility
 ping 127.0.0.1 >nul
 exit
