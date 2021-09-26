@@ -1,0 +1,1 @@
+Get-WindowsCapability -Online | Where-Object{$_.Name -like “OpenSSH.Client*”}
