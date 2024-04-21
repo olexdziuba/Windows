@@ -1,10 +1,15 @@
 ﻿ASSOC          Affiche ou modifie les applications associées aux extensions de
                fichiers.
+               
 ATTRIB         Affiche ou modifie les attributs d'un fichier.
+
 BREAK          Active ou désactive le contrôle étendu de CTRL+C.
+
 BCDEDIT        Définit les propriétés dans la base de données de démarrage pour
                le contrôle du chargement d'amorçage.
+               
 CACLS          Affiche ou modifie les listes de contrôles d'accès aux fichiers.
+
 CALL           Appelle un fichier de commandes à partir d'un autre fichier de
                commandes.
 CD             Modifie le répertoire ou affiche le répertoire actif.
